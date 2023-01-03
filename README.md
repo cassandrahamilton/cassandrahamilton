@@ -1,10 +1,11 @@
 # Cassandra Hamiton @cassandrahamilton
-Hi I'm an aspiring data scientist! Some of my favorite topics include: city planning, transit, and american history. <br> <br>
+Hi I'm an aspiring data scientist! Some of my favorite topics include: city planning, transit, and American history. <br> <br>
 How to reach me: <br>
 hamilton.cassandra.m@gmail.com
 ## Research
-### The Effect of Distance From a Public Library on Inequality
-Coming soon!
+### Library Placement and Inequality
+Used 2020 US census data to see if there is a correlation between neighborhood racial demographics and library placement in Minneapolis, MN. <br/>
+Data work was done in R and ArcGIS -> you can read about it [here](cassandrahamilton/library-inequality)
 ### Madrid Digital Humanities Project
 I'm currently working with the Spanish department to investigate the connotations of different monikers for the city of Madrid. We are creating a corpus from data scraped off Twiter and other online forums.
 ### DataCom 2022- Effect of Exercise on Mental Health
