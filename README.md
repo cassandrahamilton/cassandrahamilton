@@ -5,7 +5,7 @@ hamilton.cassandra.m@gmail.com
 ## Research
 ### Library Placement and Inequality
 Used 2020 US census data to see if there is a correlation between neighborhood racial demographics and library placement in Minneapolis, MN. <br/>
-Data work was done in R and ArcGIS -> you can read about it [here](cassandrahamilton/library-inequality)
+Data work was done in R and ArcGIS -> you can read about it [here](https://github.com/cassandrahamilton/library-inequality)
 ### Madrid Digital Humanities Project
 I'm currently working with the Spanish department to investigate the connotations of different monikers for the city of Madrid. We are creating a corpus from data scraped off Twiter and other online forums.
 ### DataCom 2022- Effect of Exercise on Mental Health
