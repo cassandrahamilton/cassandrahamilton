@@ -13,7 +13,7 @@ Used R to clean and analyze CDC BRFSS survey data.
 Specifically looked at a cohort of people with a college degree and without children to limit additional factors.
 
 ## Resume
-Linked [here](https://github.com/cassandrahamilton/desktop-tutorial/blob/54dbf6c4c4fd76d94fdb113e4e6d05616e0a5518/Resume_2022_12_.docx)
+Linked [here](https://github.com/cassandrahamilton/cassandrahamilton/blob/ea3f5f97fa6717c7b68ee8b6f984071d1e57380f/Resume.docx)
 
 <!---
 cassandrahamilton/cassandrahamilton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
