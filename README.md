@@ -12,6 +12,9 @@ I'm currently working with the Spanish department to investigate the connotation
 Used R to clean and analyze CDC BRFSS survey data.
 Specifically looked at a cohort of people with a college degree and without children to limit additional factors.
 
+## Resume
+Linked [here](https://github.com/cassandrahamilton/desktop-tutorial/blob/54dbf6c4c4fd76d94fdb113e4e6d05616e0a5518/Resume_2022_12_.docx)
+
 <!---
 cassandrahamilton/cassandrahamilton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
