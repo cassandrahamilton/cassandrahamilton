@@ -10,7 +10,7 @@ Data work was done in R and ArcGIS -> you can read about it [here](https://githu
 I'm currently working with the Spanish department to investigate the connotations of different monikers for the city of Madrid. We are creating a corpus from data scraped off Twiter and other online forums.
 ### DataCom 2022- Effect of Exercise on Mental Health
 Used R to clean and analyze CDC BRFSS survey data.
-Specifically looked at a cohort of people with a college degree and without children to limit additional factors.
+Specifically looked at a cohort of people with a college degree and without children to limit additional factors. --> read the poster [here](https://github.com/cassandrahamilton/cassandrahamilton/blob/e25a635819030f358c0023bc7bdf1021898a9def/DataCom%20Poster.pdf)
 
 ## Resume
 Linked [here](https://github.com/cassandrahamilton/cassandrahamilton/blob/ea3f5f97fa6717c7b68ee8b6f984071d1e57380f/Resume.docx)
